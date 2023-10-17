@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/cypher.the/";
+            window.location = "https://www.messenger.com/t/100007925923505";
           },
         });
       }
